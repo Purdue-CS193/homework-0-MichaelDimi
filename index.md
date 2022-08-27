@@ -4,7 +4,6 @@
 - Learning cool tricks on the terminal
 - Learning new dubugging tricks / practicing and getting better at debugging in general
 
----
 
 ## Welcome to GitHub Pages
 
