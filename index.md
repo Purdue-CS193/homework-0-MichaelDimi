@@ -3,6 +3,7 @@
 - Learning to use Github for version control and sharing code (I never could get the hang of it)
 - Learning cool tricks on the terminal
 - Learning new dubugging tricks / practicing and getting better at debugging in general
+
 ---
 
 ## Welcome to GitHub Pages
